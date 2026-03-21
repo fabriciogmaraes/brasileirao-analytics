@@ -1,0 +1,64 @@
+data,rodada,status,time_casa,time_fora,gols_casa,gols_fora
+2026-01-28,1,FINISHED,CA Mineiro,SE Palmeiras,2.0,2.0
+2026-01-28,1,FINISHED,Coritiba FBC,RB Bragantino,0.0,1.0
+2026-01-28,1,FINISHED,SC Internacional,CA Paranaense,0.0,1.0
+2026-01-28,1,FINISHED,EC Vitória,Clube do Remo,2.0,0.0
+2026-01-28,1,FINISHED,Fluminense FC,Grêmio FBPA,2.0,1.0
+2026-01-28,1,FINISHED,Chapecoense AF,Santos FC,4.0,2.0
+2026-01-28,1,FINISHED,SC Corinthians Paulista,EC Bahia,1.0,2.0
+2026-01-29,1,FINISHED,São Paulo FC,CR Flamengo,2.0,1.0
+2026-01-29,1,FINISHED,Mirassol FC,CR Vasco da Gama,2.0,1.0
+2026-01-30,1,FINISHED,Botafogo FR,Cruzeiro EC,4.0,0.0
+2026-02-04,2,FINISHED,RB Bragantino,CA Mineiro,1.0,0.0
+2026-02-04,2,FINISHED,CR Flamengo,SC Internacional,1.0,1.0
+2026-02-04,2,FINISHED,Clube do Remo,Mirassol FC,2.0,2.0
+2026-02-04,2,FINISHED,Santos FC,São Paulo FC,1.0,1.0
+2026-02-05,2,FINISHED,Grêmio FBPA,Botafogo FR,5.0,3.0
+2026-02-05,2,FINISHED,SE Palmeiras,EC Vitória,5.0,1.0
+2026-02-05,2,FINISHED,EC Bahia,Fluminense FC,1.0,1.0
+2026-02-05,2,FINISHED,CR Vasco da Gama,Chapecoense AF,1.0,1.0
+2026-02-06,2,FINISHED,Cruzeiro EC,Coritiba FBC,1.0,2.0
+2026-02-11,3,FINISHED,EC Vitória,CR Flamengo,1.0,2.0
+2026-02-11,3,FINISHED,Chapecoense AF,Coritiba FBC,3.0,3.0
+2026-02-11,3,FINISHED,Mirassol FC,Cruzeiro EC,2.0,2.0
+2026-02-11,3,FINISHED,CA Mineiro,Clube do Remo,3.0,3.0
+2026-02-12,3,FINISHED,São Paulo FC,Grêmio FBPA,2.0,0.0
+2026-02-12,3,FINISHED,CR Vasco da Gama,EC Bahia,0.0,1.0
+2026-02-12,3,FINISHED,CA Paranaense,Santos FC,2.0,1.0
+2026-02-12,3,FINISHED,Fluminense FC,Botafogo FR,1.0,0.0
+2026-02-12,3,FINISHED,SC Corinthians Paulista,RB Bragantino,2.0,0.0
+2026-02-13,3,FINISHED,SC Internacional,SE Palmeiras,1.0,3.0
+2026-02-19,2,FINISHED,CA Paranaense,SC Corinthians Paulista,0.0,1.0
+2026-02-25,4,FINISHED,RB Bragantino,CA Paranaense,1.0,1.0
+2026-02-25,4,FINISHED,Clube do Remo,SC Internacional,1.0,1.0
+2026-02-25,4,FINISHED,Coritiba FBC,São Paulo FC,0.0,1.0
+2026-02-25,4,FINISHED,Cruzeiro EC,SC Corinthians Paulista,1.0,1.0
+2026-02-26,4,FINISHED,Grêmio FBPA,CA Mineiro,2.0,1.0
+2026-02-26,4,FINISHED,SE Palmeiras,Fluminense FC,2.0,1.0
+2026-02-26,4,FINISHED,Santos FC,CR Vasco da Gama,2.0,1.0
+2026-03-11,5,FINISHED,Mirassol FC,Santos FC,2.0,2.0
+2026-03-11,5,FINISHED,CA Mineiro,SC Internacional,1.0,0.0
+2026-03-11,5,FINISHED,EC Bahia,EC Vitória,1.0,1.0
+2026-03-12,5,FINISHED,SC Corinthians Paulista,Coritiba FBC,0.0,2.0
+2026-03-12,5,FINISHED,CR Flamengo,Cruzeiro EC,2.0,0.0
+2026-03-12,5,FINISHED,Clube do Remo,Fluminense FC,0.0,2.0
+2026-03-12,5,FINISHED,CR Vasco da Gama,SE Palmeiras,2.0,1.0
+2026-03-12,5,FINISHED,São Paulo FC,Chapecoense AF,2.0,0.0
+2026-03-13,5,FINISHED,Grêmio FBPA,RB Bragantino,1.0,1.0
+2026-03-14,6,FINISHED,EC Vitória,CA Mineiro,2.0,0.0
+2026-03-14,6,FINISHED,Botafogo FR,CR Flamengo,0.0,3.0
+2026-03-15,6,FINISHED,Fluminense FC,CA Paranaense,3.0,2.0
+2026-03-15,6,FINISHED,SC Internacional,EC Bahia,0.0,1.0
+2026-03-15,6,FINISHED,Santos FC,SC Corinthians Paulista,1.0,1.0
+2026-03-15,6,FINISHED,Coritiba FBC,Clube do Remo,1.0,0.0
+2026-03-15,6,FINISHED,SE Palmeiras,Mirassol FC,1.0,0.0
+2026-03-15,6,FINISHED,RB Bragantino,São Paulo FC,1.0,2.0
+2026-03-15,6,FINISHED,Cruzeiro EC,CR Vasco da Gama,3.0,3.0
+2026-03-16,6,FINISHED,Chapecoense AF,Grêmio FBPA,1.0,1.0
+2026-03-18,7,FINISHED,EC Bahia,RB Bragantino,2.0,0.0
+2026-03-18,7,FINISHED,SE Palmeiras,Botafogo FR,2.0,1.0
+2026-03-18,7,FINISHED,CA Paranaense,Cruzeiro EC,2.0,1.0
+2026-03-18,7,FINISHED,CA Mineiro,São Paulo FC,1.0,0.0
+2026-03-18,7,FINISHED,Mirassol FC,Coritiba FBC,0.0,1.0
+2026-03-19,7,FINISHED,Santos FC,SC Internacional,1.0,2.0
+2026-03-19,7,FINISHED,CR Vasco da Gama,Fluminense FC,3.0,2.0
